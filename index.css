@@ -27,7 +27,7 @@ section {
   border-top: 1px solid black;
   list-style: none;
 }
- 
+
 #navbar a {
   display: block;
   padding: 10px 30px;
@@ -46,15 +46,15 @@ section {
 p {
   margin: 10px;
 }
- 
+
 ol {
   margin-left: 30px;
 }
- 
+
 #main-doc {
   margin: 0 auto;
 }
-      
+     
 header {
   color: black;
   margin: 10px;
