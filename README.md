@@ -46,7 +46,7 @@ Examples:
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](https://via.placeholder.com/600x300)
+![Uploading documentation shot.jpg…](demo)
 
 ## Technologies Used 🛠️
 
