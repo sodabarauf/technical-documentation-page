@@ -1,9 +1,9 @@
 html {
- scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
   background-image: url(images1.jpg);
   background-repeat: no-repeat;
@@ -11,12 +11,11 @@ body {
   display: flex;
   flex-direction: column;
 }
-  
+ 
 section {
-  margin-top: 40px;
-  
+  margin-top: 40px; 
 }
-  
+ 
 #navbar {
   background-color: #56aee9;
   width: 100%;
@@ -86,6 +85,7 @@ footer {
   body {
     flex-direction: row;
   }
+
   #navbar {
     width: 300px;
     height: 100%;
@@ -100,7 +100,7 @@ footer {
   }
 }
 
-@media (max: 815px) {
+@media (max-width: 815px) {
   body {
     color: white;
   }
