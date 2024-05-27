@@ -4,7 +4,6 @@
 
 > this project is about making technical documentation page. it has showed HTML coding language, is uesful for web development students, included some specific information about HTML.
 
-Examples:
 
 - working with HTML flie inspired me to create this documentation.
 - this will solve both theoreical and practical problems in the level of intermediate.
@@ -12,7 +11,7 @@ Examples:
 - using of HTML and CSS languages make this documentation stand out.
 
 ```html
-<!-- <nav id="navbar">
+    <nav id="navbar">
       <header>HTML Documentation</header>
       <ul>
         <li><a class="nav-link" href="#Introduction_HTML">Introduction HTML</a>
@@ -30,7 +29,7 @@ Examples:
 ```
 
 ```css
-/* body {
+body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
   background-image: url(images1.jpg);
@@ -38,21 +37,12 @@ Examples:
   background-size: cover;
   display: flex;
   flex-direction: column;
-}You can also include CSS code snippets. */
+}
 ```
 
 
-## Demo 📸
-
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
-
-![Uploading documentation shot.jpg…](demo)
 
 ## Technologies Used 🛠️
-
-List the technologies or tools you used to develop your project. You can also include the libraries or frameworks you used.
-
-Examples:
 
 - HTML
 - CSS
@@ -73,21 +63,6 @@ you must have account in GITHUB, have installed GIT bash, have installed visual 
 # code .
 ```
 
-```bash
-# git status
-```
-
-```bash
-# git add .
-```
-
-```bash
-# git commit -m ""
-
-```bash
-# git push
-```
-
 ## Usage 🎯
 
 first clone the repository with your local machin, then open in vscode by (code .) command, after that commit regularly from every changes that you make.
@@ -97,13 +72,9 @@ first clone the repository with your local machin, then open in vscode by (code 
 ```
 
 ```bash
-# git code .
+# code .
 ```
 ## Features ⭐
-
-functionalities.
-
-Examples:
 
 - making idea about creating technical documentation.
 - findig important issues about HTML.
