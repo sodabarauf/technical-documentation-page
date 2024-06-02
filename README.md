@@ -51,24 +51,12 @@ body {
 
 you must have account in GITHUB, have installed GIT bash, have installed visual studio code, an uppdate version of chrome.
 
-```bash
-# git cline git@github.com:sodabarauf/technical-documentation-page.git
-```
-
-```bash
-# cd technical-documentation-page
-```
-
-```bash
-# code .
-```
-
 ## Usage 🎯
 
 first clone the repository with your local machin, then open in vscode by (code .) command, after that commit regularly from every changes that you make.
 
 ```bash
-# git clone
+# git clone git@github.com:sodabarauf/technical-documentation-page.git
 ```
 
 ```bash
@@ -85,7 +73,7 @@ Sodaba Rauf
 
 - GITHUB:[sodabarauf](https://github.com/sodabarauf)
 - LinkedIn: [Sodaba Rauf](https://linkedin.com/in/sodaba-rauf)
-- Email: [example](sodabarauf4@gmail.com)
+- Email: [sodabarauf4@gmail.com]
 
 
 
