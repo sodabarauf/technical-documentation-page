@@ -71,8 +71,8 @@ first clone the repository with your local machin, then open in vscode by (code 
 
 Sodaba Rauf
 
-- GITHUB:[sodabarauf](https://github.com/sodabarauf)
-- LinkedIn: [Sodaba Rauf](https://linkedin.com/in/sodaba-rauf)
+- GITHUB:[(https://github.com/sodabarauf)]
+- LinkedIn: [(https://linkedin.com/in/sodaba-rauf)]
 - Email: [sodabarauf4@gmail.com]
 
 
